@@ -1,5 +1,8 @@
 # Netflix-PowerBI-Analytics
 End-to-end Netflix analytics dashboard using Power BI — data cleaning, DAX modeling, and interactive visual insights.
+
+
+
 Objective
 
 To build an interactive Power BI dashboard for exploring Netflix content insights by performing data cleaning, modeling, and visualization.
